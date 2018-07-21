@@ -2,7 +2,7 @@
 === Hikashop to Prestashop Migration Tool ===
 Version: 2.4.1
 Developed by: LitExtension
-Download: https://litextension.com/prestashop-migration-tool/3dcart-to-prestashop.html 
+Download: https://litextension.com/prestashop-migration-tool/hikashop-to-prestashop.html 
 
 
 == Description ==
